@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "TruckClassification"
 AUTHOR_USER_NAME = "saadelhidaoui"
-SRC_REPO = "CNNClassifier"
+SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "saadelhidaoui@gmail.com"
 
 
